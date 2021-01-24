@@ -1,24 +1,29 @@
 {
-	"fridge_stock":[
-		{
-			"object": "apple",
-			"amount": 5
-		},
-		{
-			"object": "banana",
-			"amount": 3
-		},
-		{
-			"object": "tomato",
-			"amount": 2
-		},
-		{
-			"object": "orange",
-			"amount": 7
-		},
-		{
-			"object": "cucumber",
-			"amount": 1
-		}		
-	]
+  "fridge_stock": [
+    {
+      "object": "apple",
+      "amount": 5,
+      "id": 1
+    },
+    {
+      "object": "banana",
+      "amount": 3,
+      "id": 2
+    },
+    {
+      "object": "tomato",
+      "amount": 2,
+      "id": 3
+    },
+    {
+      "object": "orange",
+      "amount": 7,
+      "id": 4
+    },
+    {
+      "object": "cucumber",
+      "amount": 1,
+      "id": 5
+    }
+  ]
 }
