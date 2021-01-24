@@ -1,0 +1,24 @@
+{
+	"fridge_stock":[
+		{
+			"object": "apple",
+			"amount": 5
+		},
+		{
+			"object": "banana",
+			"amount": 3
+		},
+		{
+			"object": "tomato",
+			"amount": 2
+		},
+		{
+			"object": "orange",
+			"amount": 7
+		},
+		{
+			"object": "cucumber",
+			"amount": 1
+		}		
+	]
+}
