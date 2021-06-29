@@ -1,29 +1,43 @@
 {
-  "fridge_stock": [
+  "squadName": "Awesome Animal Action Heroes",
+  "homeTown": "Racoon City",
+  "formed": 2020,
+  "members": [
     {
-      "object": "apple",
-      "amount": 5,
-      "id": 1
+      "name": "Captain Vengeful Nightowl",
+      "secretIdentity": "Carry Carter",
+      "age": 22,
+      "powers": [
+        "Sleeping In", "Waking up late", "Radar Vision", "Super Hearing"
+      ],
+      "weakness": "early mornings"
     },
     {
-      "object": "banana",
-      "amount": 3,
-      "id": 2
+      "name": "Mole Man",
+      "secretIdentity": "Hein van der Gaag",
+      "age": 29,
+      "powers": [
+        "Digging", "Dark Vision"
+      ],
+      "weakness": "bright sunlight"
     },
     {
-      "object": "tomato",
-      "amount": 2,
-      "id": 3
+      "name": "The Mysterious Wasp",
+      "secretIdentity": "Jane Wilson",
+      "age": 39,
+      "powers": [
+        "Paralyzing Poison", "Superhuman reflexes", "Supersonic Flight"
+      ],
+      "weakness": "sweet tooth"
     },
     {
-      "object": "orange",
-      "amount": 7,
-      "id": 4
-    },
-    {
-      "object": "cucumber",
-      "amount": 1,
-      "id": 5
+      "name": "The Incredible Grasshopper",
+      "secretIdentity": "Huckleberry Hopper",
+      "age": 18,
+      "powers": [
+        "Super Jump", "Sound of Silence", "Camouflage"
+      ],
+      "weakness": "sitting still"
     }
   ]
 }
