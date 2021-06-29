@@ -1,29 +1,22 @@
 {
-   "fridge_stock": [
+   "members": [
     {
-      "object": "apple",
-      "amount": 5,
-      "id": 1
+      "name": "Captain Vengeful Nightowl",
+      "secretIdentity": "Carry Carter",
+      "age": 22,
+      "powers": [
+        "Sleeping In", "Waking up late", "Radar Vision", "Super Hearing"
+      ],
+      "weakness": "early mornings"
     },
     {
-      "object": "banana",
-      "amount": 3,
-      "id": 2
-    },
-    {
-      "object": "tomato",
-      "amount": 2,
-      "id": 3
-    },
-    {
-      "object": "orange",
-      "amount": 7,
-      "id": 4
-    },
-    {
-      "object": "cucumber",
-      "amount": 1,
-      "id": 5
+      "name": "Mole Man",
+      "secretIdentity": "Hein van der Gaag",
+      "age": 29,
+      "powers": [
+        "Digging", "Dark Vision"
+      ],
+      "weakness": "bright sunlight"
     }
-  ]
+   ]
 }
