@@ -17,6 +17,24 @@
         "Digging", "Dark Vision"
       ],
       "weakness": "bright sunlight"
-    }
+    },
+     {
+       "name": "The Mysterious Wasp",
+       "secretIdentity": "Jane Wilson",
+       "age": 39,
+       "powers": [
+         "Paralyzing Poison", "Superhuman reflexes", "Supersonic Flight"
+       ],
+       "weakness": "sweet tooth"
+     },
+     {
+       "name": "The Incredible Grasshopper",
+       "secretIdentity": "Huckleberry Hopper",
+       "age": 18,
+       "powers": [
+         "Super Jump", "Sound of Silence", "Camouflage"
+       ],
+       "weakness": "sitting still"
+     }
    ]
 }
