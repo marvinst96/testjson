@@ -1,41 +1,53 @@
 {
-   "members": [
-    {
-      "name": "Captain Vengeful Nightowl",
-      "secretIdentity": "Carry Carter",
-      "age": 22,
-      "powers": [
-        "Sleeping In", "Waking up late", "Radar Vision", "Super Hearing"
-      ],
-      "weakness": "early mornings"
-    },
-    {
-      "name": "Mole Man",
-      "secretIdentity": "Hein van der Gaag",
-      "age": 29,
-      "powers": [
-        "Digging", "Dark Vision"
-      ],
-      "weakness": "bright sunlight"
-    },
-     {
-       "name": "The Mysterious Wasp",
-       "secretIdentity": "Jane Wilson",
-       "age": 39,
-       "powers": [
-         "Paralyzing Poison", "Superhuman reflexes", "Supersonic Flight"
-       ],
-       "weakness": "sweet tooth"
-     },
-     {
-       "name": "The Incredible Grasshopper",
-       "secretIdentity": "Huckleberry Hopper",
-       "age": 18,
-       "powers": [
-         "Super Jump", "Sound of Silence", "Camouflage"
-       ],
-       "weakness": "sitting still"
-     }
-   ],
-  "squadName": "Awesome Animal Action Heroes"
+  "squad": {
+    "members": [
+      {
+        "name": "Captain Vengeful Nightowl",
+        "secretIdentity": "Carry Carter",
+        "age": 22,
+        "powers": [
+          "Sleeping In",
+          "Waking up late",
+          "Radar Vision",
+          "Super Hearing"
+        ],
+        "weakness": "early mornings"
+      },
+      {
+        "name": "Mole Man",
+        "secretIdentity": "Hein van der Gaag",
+        "age": 29,
+        "powers": [
+          "Digging",
+          "Dark Vision"
+        ],
+        "weakness": "bright sunlight"
+      },
+      {
+        "name": "The Mysterious Wasp",
+        "secretIdentity": "Jane Wilson",
+        "age": 39,
+        "powers": [
+          "Paralyzing Poison",
+          "Superhuman reflexes",
+          "Supersonic Flight"
+        ],
+        "weakness": "sweet tooth"
+      },
+      {
+        "name": "The Incredible Grasshopper",
+        "secretIdentity": "Huckleberry Hopper",
+        "age": 18,
+        "powers": [
+          "Super Jump",
+          "Sound of Silence",
+          "Camouflage"
+        ],
+        "weakness": "sitting still"
+      }
+    ],
+    "squadName": "Awesome Animal Action Heroes",
+    "homeTown": "Racoon City",
+    "formed": 2020
+  }
 }
